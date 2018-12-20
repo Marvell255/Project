@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1592508696
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: heroes.unity3d
+      Dependencies: {}

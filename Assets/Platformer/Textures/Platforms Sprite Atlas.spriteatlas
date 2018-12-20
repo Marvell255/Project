@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Platforms Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a4631dcdde0f147b8aa9514c5d130e59, type: 3}
+    - {fileID: 102900000, guid: 80421c5d562164b178ffea7de094e19c, type: 3}
+    - {fileID: 102900000, guid: 0cbb42d108d844cac852ed59688af0cf, type: 3}
+    totalSpriteSurfaceArea: 3550778
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4849214048884460cb8d93eb8000edc1, type: 3}
+  - {fileID: 21300000, guid: 6b151cf0e33d345c294de0f139c3a9ad, type: 3}
+  - {fileID: 21300000, guid: a858eb211318e4b6caa8f0eec1149441, type: 3}
+  - {fileID: 21300000, guid: 231520023dda54abf86aee4a8c0ed2f8, type: 3}
+  - {fileID: 21300000, guid: de1ff0b3066924c2e9caa49efe4985b8, type: 3}
+  - {fileID: 21300000, guid: 619134e3f4be741948a1c370e30039d7, type: 3}
+  - {fileID: 21300000, guid: 2bf402f32622d40f891fe37165f85ac1, type: 3}
+  - {fileID: 21300000, guid: ee906104e975941baa314912dda2c674, type: 3}
+  - {fileID: 21300000, guid: dfbd0154085274ddcbb4993aba5de9fe, type: 3}
+  - {fileID: 21300000, guid: ecfe7354c86a64088bd97993395ba1c0, type: 3}
+  - {fileID: 21300000, guid: 09465174b80d745939d2bdbf18de7985, type: 3}
+  - {fileID: 21300000, guid: b2a455e4541184da68d03d007571f07f, type: 3}
+  - {fileID: 21300000, guid: fb0b34f420ca94001a5094aafe2e2d8b, type: 3}
+  - {fileID: 21300000, guid: 0deae1055b57c4faca64f877fb5caf4e, type: 3}
+  - {fileID: 21300000, guid: 3407e945441c24fb5836dfb40705cc0c, type: 3}
+  - {fileID: 21300000, guid: 9429fd45507884a8c950bb0821d34522, type: 3}
+  - {fileID: 21300000, guid: aebd2865e04484c12aa3691dba9f2742, type: 3}
+  - {fileID: 21300000, guid: a658a4a55556341d7bf3c41681e00b5d, type: 3}
+  - {fileID: 21300000, guid: 1fb83416e53424c43a3e065bd3d765a9, type: 3}
+  - {fileID: 21300000, guid: 678a6b260d7d94f4bb13a2e38f99fe46, type: 3}
+  - {fileID: 21300000, guid: a60f3f460edf3455995e7cc6ee9d52a4, type: 3}
+  - {fileID: 21300000, guid: 16b1ef66659e24de896160b171b1a468, type: 3}
+  - {fileID: 21300000, guid: b1abbf7604452418a8bace3eb7518da6, type: 3}
+  - {fileID: 21300000, guid: b60a08c6a6bfc47dcb345de7a95cb684, type: 3}
+  - {fileID: 21300000, guid: 5bb6ecc685a1a46d688501ba74b668fd, type: 3}
+  - {fileID: 21300000, guid: 1447dbd68a9ec471f96c623b8a084a25, type: 3}
+  - {fileID: 21300000, guid: 8d23c6e6688b6440f8d3f4bc64b94faa, type: 3}
+  - {fileID: 21300000, guid: 108983e7587c14380aa1e48861105dd0, type: 3}
+  - {fileID: 21300000, guid: 95e67ae75e10644ab9447881715a22c4, type: 3}
+  - {fileID: 21300000, guid: 471c5ef7b81a8474aa8ff63c4d980a60, type: 3}
+  - {fileID: 21300000, guid: c525ae88c8ff6443d84382b630980ff4, type: 3}
+  - {fileID: 21300000, guid: a8b75ce8be525405aa09814a17cf20e9, type: 3}
+  - {fileID: 21300000, guid: ec59bfe84690249b2adce514d5fddb8a, type: 3}
+  - {fileID: 21300000, guid: d217bc29938f84ddfac62c500d0c4109, type: 3}
+  - {fileID: 21300000, guid: 12fd719ace62a4f329b9b17109c7cd0e, type: 3}
+  - {fileID: 21300000, guid: 3f5bbf3bc154c49349a241a17621b51a, type: 3}
+  - {fileID: 21300000, guid: 7ea6f9fb934f94f0e85b0b58115eb0c9, type: 3}
+  - {fileID: 21300000, guid: 5cc57fcc4698940db85683f14d24e24b, type: 3}
+  - {fileID: 21300000, guid: 89f970ec56d844e1987f5256cc289d5d, type: 3}
+  - {fileID: 21300000, guid: c796826d0d42f4ffbb5c4d4f2d84b6b7, type: 3}
+  - {fileID: 21300000, guid: 8718ecbda0d27408e96e9e65337b0853, type: 3}
+  - {fileID: 21300000, guid: e43934dd2ea0a41209977d2b62b97076, type: 3}
+  - {fileID: 21300000, guid: ade9d0fd3ee0748efbaf0745123135d0, type: 3}
+  - {fileID: 21300000, guid: b66b501e2e6874b80979c7fda370b6fa, type: 3}
+  - {fileID: 21300000, guid: 02aeab2f04fc74da0b2d67bbcff42cb1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Acid
+  - Tile_10
+  - DoorOpen
+  - BarrelGreen
+  - Tile_8
+  - BarrelRed
+  - Tile_14
+  - light2
+  - Fence_3
+  - Tile_11
+  - BGTile_3
+  - BGTile_1
+  - Saw
+  - Tile_9
+  - Fence_1
+  - DoorLocked
+  - SwitchRed
+  - Spike
+  - Magnet
+  - Star
+  - light3
+  - button1
+  - Tile_1
+  - Box
+  - AcidUP
+  - Tile_7
+  - Tile_2
+  - BGTile_7
+  - BGTile_5
+  - Tile_6
+  - Tile_4
+  - Tile_3
+  - light1
+  - SwitchGreen
+  - light
+  - DoorUnlocked
+  - BGTile_2
+  - BGTile_6
+  - Tile_12
+  - Tile_5
+  - horse-black-silhouette-in-elegant-jump
+  - Tile_15
+  - BGTile_4
+  - Tile_13
+  - Fence_2
+  m_Tag: Platforms Sprite Atlas
+  m_IsVariant: 0

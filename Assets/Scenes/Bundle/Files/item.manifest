@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3631374188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 892b081d0537856ddfb0424d2667ffe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98cf810afb4081165c9b746ac6a743c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc98ec70afbfb8e49b4129cf5b4efc8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32854541f76009d448701650ab2fda41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 810c1d52140bd24488fa6e885944e0c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e703e45d72db8041bdcd65e55e02bd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be195e75ab540774e9479912839e2823, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e8de266a17e674e92570ad4a37d698, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c91a39e8f441b7641bc50ebc8e054edb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 289c7f997b5c94842806163d092ad3ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 179489bbaa24b0a4fba54ddb542eff95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68d67bedbbd74e842b0c2fab32fda5f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e60ed97f70bdfef479e7cb9167984c31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08e5468fa1bf05b4896cd7b2ef8664ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Bundle/NewHero.prefab
+- Assets/AnyPortrait/Assets/Shaders/apShader_Transparent.shader
+Dependencies: []
